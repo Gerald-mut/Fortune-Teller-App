@@ -1,0 +1,14 @@
+C:\D\Moringa-AI\FortuneTeller\bin\Debug\net9.0\FortuneTeller.exe
+C:\D\Moringa-AI\FortuneTeller\bin\Debug\net9.0\FortuneTeller.deps.json
+C:\D\Moringa-AI\FortuneTeller\bin\Debug\net9.0\FortuneTeller.runtimeconfig.json
+C:\D\Moringa-AI\FortuneTeller\bin\Debug\net9.0\FortuneTeller.dll
+C:\D\Moringa-AI\FortuneTeller\bin\Debug\net9.0\FortuneTeller.pdb
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.AssemblyInfoInputs.cache
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.AssemblyInfo.cs
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.dll
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\refint\FortuneTeller.dll
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.pdb
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.genruntimeconfig.cache
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\ref\FortuneTeller.dll
