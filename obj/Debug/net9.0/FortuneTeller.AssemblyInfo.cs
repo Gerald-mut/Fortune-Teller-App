@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FortuneTeller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7228da1c1e20bac69f5639542e748793d385bf95")]
 [assembly: System.Reflection.AssemblyProductAttribute("FortuneTeller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FortuneTeller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

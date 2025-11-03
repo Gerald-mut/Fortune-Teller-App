@@ -12,3 +12,4 @@ C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\refint\FortuneTeller.dll
 C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.pdb
 C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.genruntimeconfig.cache
 C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\ref\FortuneTeller.dll
+C:\D\Moringa-AI\FortuneTeller\obj\Debug\net9.0\FortuneTeller.sourcelink.json
