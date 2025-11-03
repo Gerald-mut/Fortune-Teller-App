@@ -1,8 +1,8 @@
 # C# Fortune Teller Console App
 
 A simple, interactive console application built with .NET and C# as a hands-on learning project. The app provides a personalized, randomly generated fortune to the user.
-
-*(A great addition here would be a screenshot or an animated GIF of the application running!)*
+``
+<img width="1366" height="176" alt="image" src="https://github.com/user-attachments/assets/71f7e751-1f19-4be2-a27d-f0b762dc8b0f" />
 ``
 
 ## Features
